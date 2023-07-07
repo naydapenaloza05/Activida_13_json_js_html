@@ -1,0 +1,137 @@
+[
+    {
+        "id": "01",
+        "img": "https://storage.googleapis.com/sspe-appv20-resources/kawasaki.com.pe/images/productos/0a7db2f8-4abc-4622-9024sliviana-%20K2-ER400DPFNN%20T15313.png",
+        "marca": "KAWASAKI",
+        "precio": 50000
+    },
+    {
+        "id": "02",
+        "img": "https://images.ctfassets.net/x7j9qwvpvr5s/x7XZno0bkLeN4cglxGblo/919a74c730851c8d43bf00f8a5e86ac9/MY23-Multistrada-V2S-TBST-NEW-Model-Blocks-630x390.png",
+        "marca": "DUCATI",
+        "precio": 69000
+    },
+    {
+        "id": "03",
+        "img": "https://harleydavidsonlima.com/wp-content/uploads/2018/03/rod_menu.png",
+        "marca": "HARLE-DAVIDSON",
+        "precio": 73000
+    },
+    {
+        "id": "04",
+       
+        "img": "https://flux.somosmoto.pe/r/https://somosmoto.pe/images/models/thumbnails/colors/suzuki-gn125-2023-negro-5cf307.png?width=339",
+        "marca": "SUZUKI",
+        "precio": 300000
+    },
+    {
+        "id": "05",
+  
+        "img": "https://s3.eu-west-1.amazonaws.com/cdn.motorbikemag.es/wp-content/uploads/2022/07/BMW-S-1000-R-2023-4-245x165.jpg",
+        "marca": "KTM",
+        "precio": 35000
+    },
+    {
+        "id": "06",
+     
+        "img": "https://m.media-amazon.com/images/I/711TpULqv+L._AC_UL320_.jpg",
+        "marca": "BMW MOTORRAD",
+        "precio": 250000
+    },
+    {
+        "id": "07",
+        "img": "https://images.triumphmotorcycles.co.uk/media-library/images/home/primary%20navigation/bike%20slider/thruxton-1365x768.png",
+        "marca": "TRIUMPH",
+        "precio": 45000
+    },
+    {
+        "id": "08",
+       
+        "img": "https://somosmoto.pe/images/models/colors/italika-dm150-2018-amarillo-4d15ab.png",
+        "marca": "VICTORIA",
+        "precio": 15000
+    },
+    {
+        "id": "09",
+        "img": "https://soymotero.net/wp-content/uploads/2022/12/honda_crf300l_2023_2-696x464.jpg",
+        "marca": "HONDA",
+        "precio": 32000
+    },
+    {
+        "id": "10",
+        "img": "https://www.pngarts.com/files/1/Yamaha-Motorcycle-Transparent-Image.png",
+        "marca": "YAMAHA",
+        "precio": 27000
+    },
+    {
+        "id": "11",
+        "img": "https://www.todocircuito.com/imagen/61553-kymco-xciting-400-abs.jpg",
+        "marca": "KYMCO",
+        "precio": 27000
+    },
+    {
+        "id": "12",
+        "img": "https://th.bing.com/th/id/R.d558284b93855996b2599713cdcf0e1c?rik=foVx3ZvMjN16vg&pid=ImgRaw&r=0",
+        "marca": "PIAGGIO",
+        "precio": 27000
+    },
+    {
+        "id": "13",
+        "img": "https://www.motofichas.com/images/cache/01-silence-s01-estatica-210-150.jpg",
+        "marca": "SILENCE",
+        "precio": 27000
+    }, 
+    {
+        "id": "14",
+        "img": "https://soymotero.net/wp-content/uploads/2023/06/sym-scooter-crossover-adx-125-blanco-derecho-2023-696x464.jpg",
+        "marca": "SYM",
+        "precio": 27000
+    },
+    {
+        "id": "15",
+        "img": "https://niubristol.co.uk/wp-content/uploads/2021/07/niu-n-qi-battery.png",
+        "marca": "PEUGEOT",
+        "precio": 27000
+    },
+    {
+        "id": "16",
+        "img": "https://2.bp.blogspot.com/-1a0rs4vdnD0/WVr5qSYIMFI/AAAAAAAAECA/Gg87y1nNMV0ofORCU7dpI4DH_Uz8JQnHACK4BGAYYCw/s1600/Im%25C3%25A1genes%2BPng%2BDe%2BHermosas%2BMotos.png",
+        "marca": "UNIDOS",
+        "precio": 27000
+    },
+    {
+        "id": "17",
+        "img": "https://flux.somosmoto.pe/r/https://somosmoto.pe/images/models/thumbnails/colors/rtm-70-prox-2021-azul-0d9399.png?width=339",
+        "marca": "TRINUNFO",
+        "precio": 27000
+    },
+    {
+        "id": "18",
+        "img": "https://cdn1.polaris.com/globalassets/indian/2023/model/vehicle-cards/n23dsdbhav-ind-my23-8y6v-sport-chief-stealth-gray.png?v=b0b88b7c&format=webp",
+        "marca": "INDIO",
+        "precio": 27000
+    },
+    {
+        "id": "19",
+        "img": "https://th.bing.com/th/id/R.85b815ced31f04c2dd993df603e4bff4?rik=0hlCvhwX1BAFVQ&pid=ImgRaw&r=0",
+        "marca": "CURTIS",
+        "precio": 27000
+    },
+    {
+        "id": "20",
+        "img": "https://th.bing.com/th/id/R.64e892b1144e388d76ed832281b809cc?rik=Vlaa7BnwdWmF6Q&riu=http%3a%2f%2fwww.wallpapers-images.ru%2f1600x900%2fmotorcycles%2fwallpapers%2fwallpapers-motorcycles-0.jpg&ehk=hFAy8fANgXk0o7YuqsGj89%2fBt%2b9YMcCgLgD3KBpxOR8%3d&risl=&pid=ImgRaw&r=0",
+        "marca": "CONFEDERADO",
+        "precio": 27000
+    }
+
+
+
+
+
+
+
+
+
+
+
+]
